@@ -1,0 +1,17 @@
+[
+  {
+    "org_slug": "universal-b-cMuyr3LjV29FWBJrTCjqmW",
+    "role_name": "orgspecial",
+    "email": "g17@pixelsvc.com"
+  },
+  {
+    "group_slug": "universal-b-group-ff0c78bb-xxxx-yyyy-zzzz-e73de8793870",
+    "role_name": "Group Admin",
+    "email": "g2@pixelsvc2.com"
+  },
+  {
+    "org_slug": "testgwnlngorg",
+    "role_name": "OrgTest",
+    "email": "g2@pixelsvc2.com"
+  }
+]

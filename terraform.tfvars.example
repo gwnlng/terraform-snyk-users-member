@@ -1,0 +1,2 @@
+api_token = "<your-snyk-api-token>"
+group_id = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"

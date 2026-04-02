@@ -1,0 +1,14 @@
+[
+  {
+    "role_id": "89dbb322-fb93-46f2-81c2-5e560814a679",
+    "role_name": "Group Admin"
+  },
+  {
+    "role_id": "a4a18063-ea8c-4101-8153-1e46b1cef034",
+    "role_name": "cicd global test"
+  },
+  {
+    "role_id": "65e1ceaa-c0a3-4dd3-92d7-c55f536fc61e",
+    "role_name": "Group Member"
+  }  
+]
